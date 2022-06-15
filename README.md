@@ -1,8 +1,8 @@
 ###  <a href="https://youtu.be/FCU_XJmyG_U">LuciferMoringstar-Robot</a>
 
-<img src="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Robot-Logo.jpeg" alt="LuciferMoringstar Robot Logo">
+<img src="https://github.com/Rinumodz/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Robot-Logo.jpeg" alt="LuciferMoringstar Robot Logo">
 
-<img src="https://img.shields.io/github/stars/PR0FESS0R-99/LuciferMoringstar-Robot?style=social"/>   <img src="https://img.shields.io/github/forks/PR0FESS0R-99/LuciferMoringstar-Robot?style=social"/>
+<img src="https://img.shields.io/github/stars/Rinumodz/LuciferMoringstar-Robot?style=social"/>   <img src="https://img.shields.io/github/forks/Rinumodz/LuciferMoringstar-Robot?style=social"/>
 
 ----
 
@@ -10,12 +10,12 @@
 <details><summary>Read MIT License</summary>
 <p>
 <br>
-<a href="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE"><img src="https://img.shields.io/badge/Click-Here-FF3333.svg?logo=github&logoColor=FF3333"></a>
+<a href="https://github.com/Rinumodz/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE"><img src="https://img.shields.io/badge/Click-Here-FF3333.svg?logo=github&logoColor=FF3333"></a>
 </a>
 </p>
 </details>
 
-Licensed under [MIT License](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE)
+Licensed under [MIT License](https://github.com/Rinumodz/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ----
