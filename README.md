@@ -70,7 +70,7 @@ Do Fork And Star The Repository If You Liked It.
 ----
 
 ### Subscribe
-<a href="https://youtube.com/c/MoTech_YT"> <img src="https://youtube.com/c/MoTech_YT?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
+<a href="https://youtube.com/c/MoTech_YT"> <img src="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/MoTcch-YouTube-Channel.png"/> </a>
 
 ----
 
@@ -160,47 +160,51 @@ Do Fork And Star The Repository If You Liked It.
 `SUPORT_CHAT` : Backup Support, With out @Mo_Tech_YT
 
 ----
+### 🤖 BotFather Command'S
+```
+start - check bot alive 
+id - get group id & your id
+info - your information 
+stats - bot status
+settings - open your group settings 
+pmautofilter - pm autofilter control
+connect - connect a group
+disconnect - disconnect a group
+connections - all group connections
+set_temp - set custom search risult template 
+setwelcome - set custom welcome message 
+setspell - set your custom spell check reply 
+setcaption - set your custom caption
+total - admin only
+channel - admin only
+logs - admin only
+delete - admin only
+delall - admin only
+admin - admin only
+leave - admin only
+setskip - admin only
+broadcast - admin only
+```
+----
 
 ### How To Deploy
-<a href="https://youtu.be/-xDQbsF-wek"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/-xDQbsF-wek?style=social">
+<a href="https://youtu.be/gdz9PAGwEns"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/gdz9PAGwEns?style=social">
+
+----
+
+### How To Use This Bot
+<a href="https://youtu.be/zk5Rs3_Cqhw"><img src="https://img.shields.io/badge/How%20To%20Use-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/zk5Rs3_Cqhw?style=social">
 
 ----
 
 ### Deploy To Heroku
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot"><img src="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Deploy-To-Heroku.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot"><img src="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Deploy-To-Heroku%20(1).jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 
 ----
 
-### Error 
+### How To Fix Error 
 <a href="https://youtu.be/Zsknt_nY2LQ"><img src="https://telegra.ph/file/5c98868b0eea075cb7c77.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 
 ----
 
-# END
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### -- Thankyou For Use -- 
